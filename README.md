@@ -1,5 +1,7 @@
 # MoboIT
-This is an android application developed to manage academic activities of both undergraduates and staff members of IT faculty of SLTC which made as the project for the Technology Challenge module for 4th semester. The main goal of this app is to provide quick access to both undergraduates and staff to interact with their activities on academic calendars, modules, reminders for assignments, upcoming events, exam results and discussion forum. There are three types of users within the app namely Staff, Students and Admin.
+This is an android application developed to manage academic activities of both undergraduates and staff members of IT faculty of SLTC which made as the project for the Technology Challenge module for 4th semester. The main goal of this app is to provide quick access to both undergraduates and staff to interact with their activities on academic calendars, modules, reminders for assignments, upcoming events, exam results and discussion forum. 
+
+There are three types of users within the app namely Staff, Students and Admin.
 
 Technologies used: Android Studio, Java, Firebase, XML.
 
