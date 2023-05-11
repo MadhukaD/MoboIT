@@ -7,6 +7,6 @@ Technologies used: Android Studio, Java, Firebase, XML.
 
 App URL: https://drive.google.com/file/d/1kshlULE7_mNzGLgySJlf8DxOkoQlY6s_/view
 
-Demonstration video: https://drive.google.com/file/d/1uVPRCZMKA8Vyz3DXr9Foc6-tS7lu0HAz/view?usp=sharing
+Demonstration video: https://www.youtube.com/watch?v=rPwrtT8DNHk&ab_channel=MadhukaDilshan
 
 ![MoBoIT UI](https://user-images.githubusercontent.com/83831219/174811056-3f4e3420-73f2-4897-ab3b-8d1887d0a610.png)
